@@ -269,7 +269,6 @@ TARGET_SUPPORTS_OMX_SERVICE := false
 PRODUCT_PACKAGES += \
     CarrierConfigOverlayCommon \
     FrameworkResOverlayCommon \
-    LineageSDKOverlayCommon \
     LineageSettingsOverlayCommon \
     SettingsOverlayCommon \
     SettingsProviderOverlayCommon \
